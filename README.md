@@ -4,7 +4,7 @@
 **catkin workspace 새로 만들거나 기존 사용중인 workspace 사용해도 무방**
 ```
 cd catkin_workspace/src
-git clone  
+git clone https://github.com/kka-na/vip_darknet_ros_msg.git
 catkin_make
 ```
 
